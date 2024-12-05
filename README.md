@@ -2,7 +2,7 @@
 
 This is a Discord music bot that allows users to play videos directly from youtube in a voice channel.
 
-You will need to create your own Discord bot from their developer portal and then create a .env file in the root project folder with the contents TOKEN={discord_bot_token}
+You will need to create your own Discord bot from their developer portal and then in the .env file put your bot token: TOKEN="insert_your_token_here"
 
 ## Run Locally:
 
